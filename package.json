@@ -1,0 +1,31 @@
+{
+  "name": "moviefind",
+  "version": "1.0.0",
+  "description": "Movie finder build with react and flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckbot/movieFind.git"
+  },
+  "author": "Carlos Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckbot/movieFind/issues"
+  },
+  "homepage": "https://github.com/chuckbot/movieFind#readme",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
